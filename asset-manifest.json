@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/dyfi/static/css/main.073c9b0a.css",
-    "main.js": "/dyfi/static/js/main.6bc2a198.js",
-    "static/js/787.c943cb25.chunk.js": "/dyfi/static/js/787.c943cb25.chunk.js",
-    "static/media/trailer.mp4": "/dyfi/static/media/trailer.67091d81d5efc2368f29.mp4",
-    "static/media/flyer.jpg": "/dyfi/static/media/flyer.5831d8e1e52d829b4890.jpg",
-    "static/media/logo.svg": "/dyfi/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/dyfi/index.html",
-    "main.073c9b0a.css.map": "/dyfi/static/css/main.073c9b0a.css.map",
-    "main.6bc2a198.js.map": "/dyfi/static/js/main.6bc2a198.js.map",
-    "787.c943cb25.chunk.js.map": "/dyfi/static/js/787.c943cb25.chunk.js.map"
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.f106564c.js",
+    "static/js/787.c943cb25.chunk.js": "/static/js/787.c943cb25.chunk.js",
+    "static/media/trailer.mp4": "/static/media/trailer.67091d81d5efc2368f29.mp4",
+    "static/media/flyer.jpg": "/static/media/flyer.5831d8e1e52d829b4890.jpg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.f106564c.js.map": "/static/js/main.f106564c.js.map",
+    "787.c943cb25.chunk.js.map": "/static/js/787.c943cb25.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.6bc2a198.js"
+    "static/js/main.f106564c.js"
   ]
 }
